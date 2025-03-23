@@ -1,3 +1,3 @@
-.venv/
+venv
 mapbox_token.txt
-.qodo
+.env
